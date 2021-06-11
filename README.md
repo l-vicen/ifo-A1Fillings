@@ -14,5 +14,9 @@
     - 0 observations with missing Datum Beginn.
     - 29 observations with missing Datum Ende.
 
-2. Economic sector "0.0" not found in literature. __(unsolved)__
+2. Economic sector "0.0" not found in literature. __(solved)__
+
+    - It is part of missing now.
+
+3. Mayer.ipynb stands for work of may. Juner.ipynb stands for work of june.
 
